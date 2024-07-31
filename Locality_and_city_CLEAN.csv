@@ -1,0 +1,390 @@
+Locality,City
+college_park_hartsfield_jackson_international,Atlanta
+grant_park_east_atlanta_panthersville,Atlanta
+chandler_mcafee_west_belvedere_park,Atlanta
+harwell_heights,Atlanta
+bankhead,Atlanta
+midtown_west_centennial_place,Atlanta
+midtown_south,Atlanta
+martin_luther_king_historic_district,Atlanta
+inman_park_virginia_highlands,Atlanta
+avondale_estates_east_belvedere_park,Atlanta
+atlantic_station,Atlanta
+south_buckhead,Atlanta
+midtown,Atlanta
+lindbergh,Atlanta
+north_druid_hills,Atlanta
+buckhead,Atlanta
+haynes_manor_peachtree_hills,Atlanta
+buckhead_village,Atlanta
+north_buckhead,Atlanta
+lakewood,Atlanta
+cascade_springs,Atlanta
+west_end_fairlie_poplar_underground,Atlanta
+sandy_springs,Sandy Springs
+sandy_springs_dunwoody,Sandy Springs
+marietta,Marietta
+marietta_se,Marietta
+st_edwards_park,Austin
+ibm_area,Austin
+eubank_acres_north,Austin
+dessau,Austin
+far_west_blvd,Austin
+eubank_acres_south,Austin
+walnut_forest,Austin
+hyde_park,Austin
+st_johns_park,Austin
+capital_plaza,Austin
+berkman_dr,Austin
+west_end,Austin
+university_of_texas,Austin
+downtown_north,Austin
+downtown_south,Austin
+east_central_austin,Austin
+pleasant_hill_west,Austin
+pleasant_hill_east,Austin
+georgetown_west,Georgetown
+georgetown_east,Georgetown
+round_rock_east,Round Rock
+round_rock_south,Round Rock
+boise_downtown,Boise
+boise_northeast,Boise
+boise_southeast,Boise
+boise_bench,Boise
+boise_west,Boise
+winstead_park,Boise
+boise_north,Boise
+charleston_downtown,Charleston
+charleston_james_island,Charleston
+charleston_southwest,Charleston
+charleston_west_ashley,Charleston
+charleston_daniel_island,Charleston
+second_ward,Charlotte
+coventry_woods_east_forest,Charlotte
+stonehaven_lansdowne,Charlotte
+foxcroft,Charlotte
+colonial_village_montclaire,Charlotte
+southside_park_west_blvd,Charlotte
+northwest_charlotte,Charlotte
+wedgewood,Charlotte
+north_charlotte,Charlotte
+unc_at_charlotte,Charlotte
+hidden_valley_oak_forest,Charlotte
+uptown,Charlotte
+becton_park_marlwood,Charlotte
+wessex_square,Charlotte
+southwest_charlotte,Charlotte
+morningside,Charlotte
+myers_park,Charlotte
+third_ward_lakewood,Charlotte
+tryon_hills,Charlotte
+eastland_windsor_park,Charlotte
+concord_west,Concord
+concord_east,Concord
+gastonia_south,Gastonia
+gastonia_north,Gastonia
+dallas_design_district,Dallas
+dallas_downtown,Dallas
+dallas_southwest,Dallas
+dallas_vickery_meadow,Dallas
+dallas_east,Dallas
+dallas_lake_highlands,Dallas
+dallas_lochwood_highland_meadows,Dallas
+dallas_john_west_mesquite,Dallas
+dallas_northwest,Dallas
+dallas_preston,Dallas
+dallas_park_central,Dallas
+dallas_far_north,Dallas
+dallas_cedars,Dallas
+dallas_uptown,Dallas
+dallas_old_east,Dallas
+dallas_south_dallas,Dallas
+dallas_oak_lawn,Dallas
+dallas_west_dallas,Dallas
+dallas_oak_cliff_east,Dallas
+dallas_greenville_south,Dallas
+dallas_oak_cliff_north,Dallas
+dallas_lakewood,Dallas
+dallas_oak_cliff_central,Dallas
+dallas_oak_cliff_south,Dallas
+dallas_airport,Dallas
+dallas_cedar_crest,Dallas
+fort_worth_central,Fort Worth
+fort_worth_trinity_river,Fort Worth
+fort_worth_central_west,Fort Worth
+fort_worth_westover_hills,Fort Worth
+fort_worth_riverbend,Fort Worth
+fort_worth_western_hills,Fort Worth
+fort_worth_westland,Fort Worth
+fort_worth_lake_worth,Fort Worth
+fort_worth_northwest,Fort Worth
+fort_worth_northeast,Fort Worth
+fort_worth_medical_district,Fort Worth
+fort_worth_southeast,Fort Worth
+fort_worth_southwest,Fort Worth
+fort_worth_east,Fort Worth
+fort_worth_trinity,Fort Worth
+fort_worth_crockett_row,Fort Worth
+roanoke_fort_worth_north,Fort Worth
+fort_worth_central_north,Fort Worth
+fort_worth_scenic_bluff,Fort Worth
+fort_worth_woodhaven,Fort Worth
+fort_worth_central_east,Fort Worth
+fort_worth_central_south,Fort Worth
+fort_worth_university,Fort Worth
+grand_prairie_south,Grand Prairie
+grand_prairie_north,Grand Prairie
+richardson_south,Richardson
+richardson_north,Richardson
+carrollton_south,Carrollton
+carrollton_north,Carrollton
+garland_south,Garland
+garland_north,Garland
+irving_south,Irving
+irving_las_colinas,Irving
+irving_valley_ranch,Irving
+plano_west,Plano
+plano_east,Plano
+mckinney_west,McKinney
+mckinney_east,McKinney
+arlington_central,Arlington
+arlington_north,Arlington
+arlington_east,Arlington
+arlington_west,Arlington
+arlington_south,Arlington
+arlington_southwest,Arlington
+lewisville,Lewisville
+the_colony_lewisville,Lewisville
+denton_central,Denton
+denton_university,Denton
+denton_south,Denton
+denton_north,Denton
+rockwall,Rockwall
+denver_downtown,Denver
+denver_east,Denver
+denver_southeast,Denver
+denver_northeast,Denver
+denver_airport,Denver
+denver_five_points_uptown,Denver
+denver_north,Denver
+denver_central,Denver
+denver_city_park_cherry_creek,Denver
+denver_west,Denver
+denver_southwest,Denver
+denver_south,Denver
+aurora_central,Aurora
+aurora_south,Aurora
+aurora_northeast,Aurora
+aurora_southeast,Aurora
+centennial_east,Centennial
+centennial_west,Centennial
+lakewood_east,Lakewood
+lakewood_west,Lakewood
+fayetteville_central,Fayetteville
+fayetteville_south,Fayetteville
+fayetteville_west,Fayetteville
+fayetteville_northeast,Fayetteville
+rogers_west,Rogers
+rogers_east,Rogers
+rogers_south,Rogers
+rogers_north,Rogers
+springdale_east,Springdale
+springdale_west,Springdale
+greenville_central,Greeville
+greenville_east,Greeville
+greenville_south,Greeville
+greenville_north,Greeville
+greenville_north_central,Greeville
+greenville_south_central,Greeville
+greaterthird_ward,Houston
+west_end_downtown,Houston
+rosslyn,Houston
+east_end,Houston
+the_heights,Houston
+george_bush_park,Houston
+kingwood,Houston
+royal_oaks_country_club,Houston
+bammel,Houston
+bear_creek_park,Houston
+museum_district,Houston
+reliant_park,Houston
+bellaire,Houston
+river_oaks,Houston
+south_houston_crenshaw_park,Houston
+south_houston,Houston
+west_bellaire,Houston
+william_p_hobby_airport,Houston
+pierce_junction,Houston
+sugar_land_south,Sugar Land
+sugar_land_west,Sugar Land
+sugar_land_north,Sugar Land
+the_woodlands_east,The Woodlands
+the_woodlands,The Woodlands
+league_city_dickenson,League City
+league_city_west,League City
+jacksonville_downtown,Jacksonville
+jacksonville_ortega_hills,Jacksonville
+jacksonville_bowden,Jacksonville
+jacksonville_pineland_gardens,Jacksonville
+jacksonville_oakwood_villa,Jacksonville
+jacksonville_oceanway,Jacksonville
+jacksonville_plummers,Jacksonville
+jacksonville_bayard,Jacksonville
+jacksonville_sunbeam,Jacksonville
+jacksonville_deerwood_club,Jacksonville
+jacksonville_southridge,Jacksonville
+jacksonville_college_park_springfield,Jacksonville
+jacksonville_san_pablo,Jacksonville
+jacksonville_mayport,Jacksonville
+jacksonville_beacon_hills,Jacksonville
+fernandina_beach,Jacksonville
+jacksonville_san_jose,Jacksonville
+jacksonville_south_jacksonville,Jacksonville
+jacksonville_newcastle,Jacksonville
+jacksonville_highlands,Jacksonville
+jacksonville_jacksonville_heights,Jacksonville
+jacksonville_cedar_hills,Jacksonville
+las_vegas_downtown,Las Vegas
+las_vegas_strip,Las Vegas
+university_district,Las Vegas
+chinatown,Las Vegas
+las_vegas_downtown_south,Las Vegas
+seven_hills,Las Vegas
+las_vegas_east,Las Vegas
+las_vegas_westside,Las Vegas
+las_vegas_south,Las Vegas
+las_vegas_central_west,Las Vegas
+las_vegas_summerlin,Las Vegas
+las_vegas_northwest,Las Vegas
+north_las_vegas_east,Las Vegas
+nashville_downtown,Nashville
+nashville_east,Nashville
+nashville_northeast,Nashville
+nashville_northwest,Nashville
+nashville_west,Nashville
+nashville_southwest,Nashville
+nashville_green_hills,Nashville
+nashville_south,Nashville
+nashville_southeast,Nashville
+nashville_madison,Nashville
+nashville_central,Nashville
+nashville_central_south,Nashville
+nashville_lebanon_pike,Nashville
+nashville_east_end,Nashville
+nashville_central_north,Nashville
+nashville_vanderbilt,Nashville
+nashville_airport,Nashville
+daytona_beach_central,Daytona Beach
+daytona_beach_north,Daytona Beach
+daytona_beach_south,Daytona Beach
+orlando_downtown,Orlando
+orlando_florida_center,Orlando
+orlando_vista_park,Orlando
+orlando_southeast,Orlando
+metro_west,Orlando
+edgewood_park,Orlando
+orlando_colonial_town,Orlando
+orlando_north_orange,Orlando
+orlando_azalea_park,Orlando
+orlando_edgewood,Orlando
+orlando_holden_heights,Orlando
+orlando_florida_center_north,Orlando
+orlando_pine_hills,Orlando
+orlando_rosemont,Orlando
+phoenix_downtown,Phoenix
+phoenix_maryvale,Phoenix
+phoenix_the_village,Phoenix
+phoenix_sunnyslope,Phoenix
+phoenix_north_mountain_village,Phoenix
+phoenix_deer_valley,Phoenix
+phoenix_paradise_valley_west,Phoenix
+phoenix_paradise_valley_village,Phoenix
+phoenix_happy_valley,Phoenix
+phoenix_central_city,Phoenix
+phoenix_south,Phoenix
+phoenix_central_east,Phoenix
+phoenix_west_uptown,Phoenix
+phoenix_east_uptown,Phoenix
+phoenix_east_camelback_village,Phoenix
+phoenix_ahwatukee_foothills,Phoenix
+scottsdale_south,Scottsdale
+scottsdale_north,Scottsdale
+tempe_north,Tempe
+tempe_south,Tempe
+mesa_west,Mesa
+mesa_east,Mesa
+mesa_airport,Mesa
+glendale_south,Glendale
+glendale_north,Glendale
+raleigh_downtown,Raleigh
+raleigh_east,Raleigh
+raleigh_southeast,Raleigh
+raleigh_southwest,Raleigh
+raleigh_brier_creek,Raleigh
+raleigh_central_west,Raleigh
+raleigh_central_east,Raleigh
+raleigh_south,Raleigh
+raleigh_university,Raleigh
+raleigh_west,Raleigh
+raleigh_northwest,Raleigh
+raleigh_north,Raleigh
+raleigh_northeast,Raleigh
+salt_lake_city_downtown,Salt Lake City
+salt_lake_city_east_central,Salt Lake City
+salt_lake_city_west_central,Salt Lake City
+salt_lake_city_southeast,Salt Lake City
+salt_lake_city_ballpark,Salt Lake City
+salt_lake_city_west,Salt Lake City
+south_salt_lake,Salt Lake City
+southtown_king_william,San Antonio
+southeast_side,San Antonio
+southside_columbia_heights,San Antonio
+lackland_terrace,San Antonio
+oak_hills_country_club,San Antonio
+oakland_estates,San Antonio
+usaa_area,San Antonio
+west_side,San Antonio
+north_loop,San Antonio
+city_south,San Antonio
+far_west_side,San Antonio
+northwest_side,San Antonio
+university_of_texas_at_san_antonio,San Antonio
+southwest_research_institute,San Antonio
+far_north_central,San Antonio
+northeast_side,San Antonio
+far_north_side,San Antonio
+west_alamo_heights,San Antonio
+alamo_heights_central,San Antonio
+east_side,San Antonio
+sarasota_university,Sarasota
+sarasota_north,Sarasota
+sarasota_central,Sarasota
+sarasota_far_south,Sarasota
+bradenton_central,Bradenton
+bradenton_beach,Bradenton
+bradenton_south,Bradenton
+bradenton_east,Bradenton
+fort_myers_east,Fort Myers
+fort_myers_central,Fort Myers
+fort_myers_west,Fort Myers
+fort_myers_south,Fort Myers
+tampa_downtown,Tampa
+tampa_northeast,Tampa
+tampa_palms_pebble_creek,Tampa
+university,Tampa
+temple_terrace,Tampa
+tampa_historic,Tampa
+tampa_west,Tampa
+tampa_tampa_heights,Tampa
+tampa_east,Tampa
+tampa_south_tampa,Tampa
+tampa_sun_bay_south,Tampa
+tampa_airport,Tampa
+tampa_northwest,Tampa
+st_petersburg_downtown,St Petersburg
+st_petersburg_south,St Petersburg
+st_petersburg_west,St Petersburg
+st_petersburg_east,St Petersburg
+st_petersburg_north,St Petersburg
+clearwater_east,Clearwater
+clearwater_west,Clearwater

@@ -1,0 +1,997 @@
+Submarket,Market
+austell,Atlanta - Suburban
+buford,Atlanta - Suburban
+canton_woodstock,Atlanta - Suburban
+carrollton,Atlanta - Suburban
+cartersville,Atlanta - Suburban
+conyers,Atlanta - Suburban
+covington,Atlanta - Suburban
+cumming,Atlanta - Suburban
+dallas_hiram,Atlanta - Suburban
+dawsonville,Atlanta - Suburban
+douglasville,Atlanta - Suburban
+duluth,Atlanta - Suburban
+fayetteville,Atlanta - Suburban
+griffin,Atlanta - Suburban
+haralson_county,Atlanta - Suburban
+heard_county,Atlanta - Suburban
+jackson,Atlanta - Suburban
+jonesboro,Atlanta - Suburban
+kennesaw,Atlanta - Suburban
+lagrange,Atlanta - Suburban
+lawrenceville,Atlanta - Suburban
+lithia_springs,Atlanta - Suburban
+lithonia_decatur,Atlanta - Suburban
+madison,Atlanta - Suburban
+marietta,Atlanta - Suburban
+mcdonough,Atlanta - Suburban
+meriwether_county,Atlanta - Suburban
+monroe,Atlanta - Suburban
+monticello,Atlanta - Suburban
+newnan,Atlanta - Suburban
+norcross,Atlanta - Suburban
+pickens_county,Atlanta - Suburban
+polk_county,Atlanta - Suburban
+roswell_alpharetta,Atlanta - Suburban
+sandtown,Atlanta - Suburban
+sandy_springs,Atlanta - Suburban
+smyma,Atlanta - Suburban
+snellville,Atlanta - Suburban
+stockbridge,Atlanta - Suburban
+stone_mountain,Atlanta - Suburban
+thomaston_barnesville,Atlanta - Suburban
+union_city_fairburn,Atlanta - Suburban
+villa_rica,Atlanta - Suburban
+winder,Atlanta - Suburban
+south_buckhead,Atlanta - Urban
+buckhead_village,Atlanta - Urban
+lenox,Atlanta - Urban
+haynes_manor_peachtree_hills,Atlanta - Urban
+brookhaven,Atlanta - Urban
+north_druid_hills,Atlanta - Urban
+lindbergh,Atlanta - Urban
+midtown,Atlanta - Urban
+inman_park_virgina_highlands,Atlanta - Urban
+midtown_south,Atlanta - Urban
+martin_luther_king_historic_district,Atlanta - Urban
+chandler_mcafee_west_belvedere_park,Atlanta - Urban
+avondale_estates_east_belvedere_park,Atlanta - Urban
+decatur,Atlanta - Urban
+atlantic_station,Atlanta - Urban
+midtown_west_centennial_place,Atlanta - Urban
+west_end_fairlie_poplar_underground,Atlanta - Urban
+oakland,Atlanta - Urban
+cascade_springs,Atlanta - Urban
+harwell_heights,Atlanta - Urban
+east_point_hapeville,Atlanta - Urban
+lakewood,Atlanta - Urban
+buckhead,Atlanta - Urban
+rhyne,Atlanta - Urban
+forest_park,Atlanta - Urban
+north_buckhead,Atlanta - Urban
+sandy_springs_dunwoody,Atlanta - Urban
+northlake,Atlanta - Urban
+north_vinings,Atlanta - Urban
+marietta_se,Atlanta - Urban
+east_chamblee,Atlanta - Urban
+west_chamblee,Atlanta - Urban
+north_decatur_clarkston_scottdale,Atlanta - Urban
+college_park_hartsfield_jackson_international,Atlanta - Urban
+west_riverdale,Atlanta - Urban
+east_riverdale,Atlanta - Urban
+bankhead,Atlanta - Urban
+grant_park_east_atlanta_panthersville,Atlanta - Urban
+dripping_springs,Austin
+capital_plaza,Austin
+pflugerville,Austin
+elgin,Austin
+round_rock_south,Austin
+taylor,Austin
+georgetown_east,Austin
+georgetown_west,Austin
+round_rock_east,Austin
+cedar_park,Austin
+eubank_acres_north,Austin
+ibm_area,Austin
+walnut_forest,Austin
+dessau,Austin
+daffan,Austin
+st_johns_park,Austin
+university_of_texas,Austin
+pershing,Austin
+east_central_austin,Austin
+downtown_north,Austin
+downtown_south,Austin
+pleasant_hill_east,Austin
+sunset_valley,Austin
+oak_hill,Austin
+west_end,Austin
+st_edwards_park,Austin
+anderson_mill,Austin
+bastrop,Austin
+san_marcos_kyle,Austin
+jollyville_south,Austin
+eubank_acres_south,Austin
+hyde_park,Austin
+brushy_creek,Austin
+abercrombie,Austin
+jollyville_north,Austin
+wells_branch,Austin
+far_west_blvd,Austin
+berkman_dr,Austin
+pleasant_hill_west,Austin
+hutto,Austin
+outlying_bastrop_county,Austin
+outlying_williamson_county,Austin
+west_travis_county,Austin
+woodcreek_wimberley,Austin
+ada,Boise
+boise_downtown,Boise
+boise_northeast,Boise
+boise_north,Boise
+boise_southeast,Boise
+boise_south,Boise
+boise_west,Boise
+boise_bench,Boise
+caldwell,Boise
+canyon,Boise
+elmore,Boise
+garden_city,Boise
+gem,Boise
+kuna,Boise
+malheur,Boise
+meridian,Boise
+middleton,Boise
+nampa,Boise
+owyhee,Boise
+payette,Boise
+southwest_ada_county_alliance,Boise
+west_bench,Boise
+west_valley,Boise
+winstead_park,Boise
+berkeley,Charleston
+brunswick,Charleston
+burgess,Charleston
+charleston_downtown,Charleston
+charleston_southwest,Charleston
+conway,Charleston
+charleston_daniel_island,Charleston
+dorchester,Charleston
+garden_city_surfside_beach,Charleston
+georgetown,Charleston
+goose_creek,Charleston
+hanahan,Charleston
+horry,Charleston
+charleston_james_island,Charleston
+ladson,Charleston
+mount_pleasant,Charleston
+myrtle_beach,Charleston
+north_charleston,Charleston
+north_myrtle_beach,Charleston
+red_hill,Charleston
+southport,Charleston
+summerville,Charleston
+charleston_west_ashley,Charleston
+anson_county,
+uptown,
+southside_park_west_blvd,
+second_ward,
+tryon_hills,
+myers_park,
+cotswold,
+stonehaven_lansdowne,
+coventry_woods_east_forest,
+briarcreek_oakhurst,
+eastland_windsor_park,
+becton_park_marlwood,
+foxcroft,
+matthews,
+huntersville,
+kannapolis,
+northwest_charlotte,
+colonial_village_montclaire,
+wessex_square,
+morningside,
+gastonia_north,
+mt_holly,
+belmont,
+wedgewood,
+concord_west,
+concord_east,
+monroe,
+rock_hill_west,
+york,
+pineville,
+gastonia_south,
+southwest_charlotte,
+hidden_valley_oak_forest,
+third_ward_lakewood,
+unc_at_charlotte,
+north_charlotte,
+fort_mill,
+rock_hill_east,
+ballantyne_providence,
+chester_county,
+cleveland_county,
+lancaster_county,
+lincoln_county,
+mooresville,
+outlying_cabarrus_county,
+outlying_gaston_county,
+outlying_union_county,
+outlying_york_county,
+rowan_county,
+stanly_county,
+statesville_north_iredell_county,
+montgomery_county,
+cheyenne_mountain_fort_carson,Colorado Springs
+pinecliff_rockrimmon,Colorado Springs
+holland_park_cragmor,Colorado Springs
+old_colorado_city,Colorado Springs
+ivy_stratton_meadows_lower_skyway,Colorado Springs
+downtown_colorado_college,Colorado Springs
+village_seven,Colorado Springs
+knob_hill_hillsdale,Colorado Springs
+pikes_peak_park_north,Colorado Springs
+pikes_peak_park,Colorado Springs
+valley_hill_park_hill,Colorado Springs
+eastborough,Colorado Springs
+gateway_park,Colorado Springs
+fountain_valley_rustic_hills,Colorado Springs
+elsmere,Colorado Springs
+parkmoor_garden_ranch,Colorado Springs
+village_seven,Colorado Springs
+briargate_west_norwood,Colorado Springs
+pulpit_rock,Colorado Springs
+cheyenne_mountain_black_forest,Colorado Springs
+addison_farmers_branch,
+allen,
+anna_melissa,
+aubrey,
+bryan_county,
+carrollton_north,
+carrollton_south,
+celina,
+cooke_county,
+dallas_airport,
+dallas_downtown,
+dallas_far_north,
+dallas_greenville_south,
+dallas_john_west_mesquite,
+dallas_lake_highlands,
+dallas_lakewood,
+dallas_lochwood_highland_meadows,
+dallas_northwest,
+dallas_oak_lawn,
+dallas_old_east,
+dallas_park_central,
+dallas_preston,
+dallas_university_park,
+dallas_uptown,
+dallas_vickery_meadow,
+denison,
+fannin_county,
+frisco,
+garland_north,
+garland_south,
+highland_park,
+hunt_county,
+mckinney_east,
+mckinney_west,
+plano_east,
+plano_west,
+princeton,
+richardson_north,
+richardson_south,
+rockwall,
+rowlett,
+sherman,
+the_colony_lewisville,
+wylie,
+athens,
+balch_springs,
+cedar_hill,
+coppell,
+corinth,
+dallas_cedar_crest,
+dallas_cedars,
+dallas_design_district,
+dallas_east,
+dallas_oak_cliff_central,
+dallas_oak_cliff_east,
+dallas_oak_cliff_north,
+dallas_oak_cliff_south,
+dallas_south_dallas,
+dallas_southwest,
+dallas_west_dallas,
+denton_central,
+denton_north,
+denton_south,
+denton_university,
+desoto,
+duncanville,
+ennis,
+farmers_branch,
+ferris,
+flower_mound,
+forney,
+grand_prairie_north,
+grand_prairie_south,
+greenville,
+henderson_county_east,
+irving_las_colinas,
+irving_south,
+irving_valley_ranch,
+kaufman,
+lancaster,
+lewisville,
+mabank,
+mesquite,
+midlothian,
+red_oak,
+roanoke_fort_worth_north,
+rockwall,
+sanger,
+seagoville,
+terrell,
+waxahachie,
+wilmer,
+arvada,
+aurora_central,
+aurora_northeast,
+aurora_south,
+aurora_southeast,
+boulder,
+brighton,
+broomfield,
+castle_rock,
+centennial_east,
+centennial_west,
+commerce_city,
+denver_airport,
+denver_central,
+denver_city_park_cherry_creek,
+denver_downtown,
+denver_east,
+denver_five_points_uptown,
+denver_marston,
+denver_north,
+denver_northeast,
+denver_south,
+denver_southeast,
+denver_southwest,
+denver_west,
+englewood,
+fort_collins_central,
+fort_collins_north,
+fort_collins_south,
+glendale,
+golden,
+greeley_east,
+greeley_west,
+highlands_ranch,
+ken_caryl,
+lafayette_louisville,
+lakewood_east,
+lakewood_west,
+littleton,
+longmont,
+loveland,
+parker_lone_tree,
+thornton,
+weld_county_south,
+westminster,
+windsor,
+arlington_central,
+arlington_east,
+arlington_north,
+arlington_south,
+arlington_southwest,
+arlington_west,
+azle,
+bedford,
+burleson,
+cleburne,
+crowley,
+euless,
+fort_worth_central,
+fort_worth_central_east,
+fort_worth_central_north,
+fort_worth_central_south,
+fort_worth_central_west,
+fort_worth_crockett_row,
+fort_worth_east,
+fort_worth_lake_worth,
+fort_worth_medical_district,
+fort_worth_northeast,
+fort_worth_northwest,
+fort_worth_riverbend,
+fort_worth_scenic_bluff,
+fort_worth_southeast,
+fort_worth_southwest,
+fort_worth_trinity,
+fort_worth_trinity_river,
+fort_worth_university,
+fort_worth_western_hills,
+fort_worth_westland,
+fort_worth_westover_hills,
+fort_worth_woodhaven,
+grand_prairie,
+grapevine,
+haltom_city,
+hood_county,
+hurst,
+keller,
+mansfield,
+palo_pinto_county,
+richland_hills,
+weatherford,
+white_settlement,
+wise_county,
+abbeville,Greenville
+anderson,Greenville
+arcadia,Greenville
+berea,Greenville
+boiling_springs,Greenville
+cherokee,Greenville
+clemson,Greenville
+duncan,Greenville
+easley,Greenville
+fairforest,Greenville
+five_forks,Greenville
+furman,Greenville
+gantt,Greenville
+greenville_central,Greenville
+greenville_east,Greenville
+greenville_north,Greenville
+greenville_north_central,Greenville
+greenville_south,Greenville
+greenville_south_central,Greenville
+greenwood,Greenville
+greer,Greenville
+laurens,Greenville
+mauldin,Greenville
+nicholtown,Greenville
+oconee,Greenville
+overbrook,Greenville
+parker,Greenville
+pickens,Greenville
+piedmont_golden_grove,Greenville
+sans_souci,Greenville
+saxon,Greenville
+simpsonville,Greenville
+spartanburg,Greenville
+spartanburg_east,Greenville
+spartanburg_north,Greenville
+spartanburg_south,Greenville
+spartanburg_west,Greenville
+taylors,Greenville
+union,Greenville
+angleton,
+brazoria_county_west,
+cleveland,
+dayton,
+galveston,
+league_city_west,
+league_city_dickenson,
+alvin,
+pearland_friendswood,
+nassau_bay_seabrook,
+la_porte,
+deer_park,
+south_houston_crenshaw_park,
+south_houston,
+pasadena,
+william_p_hobby_airport,
+clear_creek,
+pierce_junction,
+greaterthird_ward,
+east_end,
+cloverleaf,
+atascocita,
+humble_westfield,
+mount_houston,
+baytown,
+spring,
+kingwood,
+porter,
+the_woodlands_east,
+conroe_east,
+texas_city_san_leon,
+northwest_brazoria_county,
+outlying_chambers_county,
+freeport,
+huntsville,
+lake_jackson_clute,
+san_jacinto_county,
+austin_county,
+bay_city,
+brenham,
+brookshire,
+el_campo,
+grimes_county,
+prairie_view,
+avonak,
+northwest_harris_county,
+outlying_fort_bend_county,
+reliant_park,
+museum_district,
+river_oaks,
+piney_point_village_north,
+piney_point_village_south,
+bunker_hill_village,
+royal_oaks_country_club,
+george_bush_park,
+bellaire,
+hunters_creek,
+spring_valley,
+the_heights,
+rosslyn,
+tomball,
+the_woodlands,
+cinco_ranch_north,
+cinco_ranch_south,
+katy,
+rosenberg,
+sugar_land_north,
+sugar_land_west,
+magnolia,
+bear_creek_park,
+bammel,
+west_bellaire,
+missouri_city,
+sugar_land_south,
+jersey_village_salsuma,
+west_end_downtown,
+richmond,
+addicks,
+conroe_west,
+louetta,
+west_montgomery_county,
+wharton,
+bellair_orange_park,Jacksonville
+callahan,Jacksonville
+fernandina_beach,Jacksonville
+fleming_island,Jacksonville
+green_cove_springs,Jacksonville
+hilliard,Jacksonville
+jacksonville_bayard,Jacksonville
+jacksonville_beacon_hills,Jacksonville
+jacksonville_bowden,Jacksonville
+jacksonville_cedar_hills,Jacksonville
+jacksonville_college_park_springfield,Jacksonville
+jacksonville_deerwood_club,Jacksonville
+jacksonville_dinsmore,Jacksonville
+jacksonville_downtown,Jacksonville
+jacksonville_plummers,Jacksonville
+jacksonville_highlands,Jacksonville
+jacksonville_jacksonville_heights,Jacksonville
+jacksonville_mayport,Jacksonville
+jacksonville_newcastle,Jacksonville
+jacksonville_oakwood_villa,Jacksonville
+jacksonville_oceanway,Jacksonville
+jacksonville_ortega_hills,Jacksonville
+jacksonville_pineland_gardens,Jacksonville
+jacksonville_san_jose,Jacksonville
+jacksonville_san_pablo,Jacksonville
+jacksonville_south_jacksonville,Jacksonville
+jacksonville_southridge,Jacksonville
+jacksonville_sunbeam,Jacksonville
+neptune_beach,Jacksonville
+ponte_vedra_beach,Jacksonville
+ridgewood,Jacksonville
+st_augustine,Jacksonville
+st_johns,Jacksonville
+boulder_city,
+chinatown,
+enterprise,
+green_valley,
+henderson,
+las_vegas_central_west,
+las_vegas_downtown,
+las_vegas_downtown_south,
+las_vegas_east,
+las_vegas_northwest,
+las_vegas_south,
+las_vegas_summerlin,
+las_vegas_westside,
+las_vegas_strip,
+north_las_vegas_east,
+north_las_vegas_west,
+northern_clark_county,
+paradise_east,
+paradise_north,
+paradise_south,
+seven_hills,
+southern_clark_county,
+spring_valley_east,
+spring_valley_west,
+sunrise_manor_north,
+sunrise_manor_south,
+university_district,
+whitney,
+winchester,
+cheatham_county,
+columbia,
+cookeville,
+dickson,
+fairview,
+fayetteville,
+franklin,
+gallatin,
+goodlettsville,
+hendersonville,
+hickman_county,
+lafayette,
+lawrenceburg,
+lebanon,
+lewis_county,
+lewisburg,
+mcminnville_smithville,
+mount_juliet,
+murfreesboro,
+nashville_airport,
+nashville_central,
+nashville_central_north,
+nashville_central_south,
+nashville_downtown,
+nashville_east,
+nashville_east_end,
+nashville_green_hills,
+nashville_lebanon_pike,
+nashville_madison,
+nashville_northeast,
+nashville_northwest,
+nashville_south,
+nashville_southeast,
+nashville_southwest,
+nashville_vanderbilt,
+nashville_west,
+nashville_woodbine,
+paris,
+portland,
+pulaski,
+shelbyville,
+smith_county,
+smyma,
+sparta,
+spring_hill,
+springfield,
+tullahoma,
+waverly_erin,
+white_house,
+gainesville_northwest,North Central Florida
+gainesville_university_west,North Central Florida
+gainesville_university_south,North Central Florida
+gainesville_downtown,North Central Florida
+alachua_county_west,North Central Florida
+ocala_west,North Central Florida
+ocala_south,North Central Florida
+ocala_north,North Central Florida
+gainesville_northeast,North Central Florida
+gainesville_west,North Central Florida
+palm_coast,North Central Florida
+new_smyma_beach,North Central Florida
+ormond_beach,North Central Florida
+daytona_beach_north,North Central Florida
+daytona_beach_central,North Central Florida
+deland,North Central Florida
+cescent_city,North Central Florida
+palatka,North Central Florida
+port_orange,North Central Florida
+orange_city,North Central Florida
+daytona_beach_south,North Central Florida
+crawford_county_north,NW Arkansas
+fayetteville_central,NW Arkansas
+fayetteville_northeast,NW Arkansas
+fayetteville_south,NW Arkansas
+fayetteville_west,NW Arkansas
+fort_smith_east,NW Arkansas
+fort_smith_north,NW Arkansas
+fort_smith_west,NW Arkansas
+franklin_county,NW Arkansas
+madison_county,NW Arkansas
+outlying_sebastian_county,NW Arkansas
+rogers_east,NW Arkansas
+rogers_north,NW Arkansas
+rogers_south,NW Arkansas
+rogers_west,NW Arkansas
+siloam_springs,NW Arkansas
+springdale_east,NW Arkansas
+springdale_west,NW Arkansas
+van_buren,NW Arkansas
+altamonte_springs,
+apopka,
+belle_isle,
+celebration,
+clermont,
+conway,
+east_kissimme,
+eastern_orange_county,
+edgewood_park,
+fish_lake,
+forest_city,
+goldenrod,
+hancock_lake,
+hunter's_creek,
+metro_west,
+lake_bryan,
+lake_buena_vista,
+lake_mary,
+leesburg,
+lockhart,
+longwood,
+melbourne,
+mt_dora,
+oak_ridge,
+ocoee,
+orange_lake,
+orlando_azalea_park,
+orlando_colonial_town,
+orlando_downtown,
+orlando_edgewood,
+orlando_florida_center,
+orlando_florida_center_north,
+orlando_holden_heights,
+orlando_north_orange,
+orlando_pine_hills,
+orlando_rosemont,
+orlando_southeast,
+orlando_vista_park,
+osceola_county_north,
+osceola_county_south,
+outlying_lake_county,
+outlying_seminole_county,
+oviedo,
+palm_bay,
+red_bug_lake,
+sanford,
+st_cloud,
+stoneybrook,
+titusville,
+union_park,
+university_park,
+weathersfield,
+west_kissimme,
+winter_garden,
+winter_park_east,
+maitland,
+winter_park_west,
+woodruff_springs,
+sumterville,
+the_villages,
+wildwood,
+apache_junction,
+avondale,
+buckeye,
+casa_grande,
+chandler,
+coolidge,
+eloy,
+florence,
+fountain_hills,
+gilbert,
+glendale_north,
+glendale_south,
+goodyear,
+litchfield,
+maricopa_east,
+maricopa_west,
+maricopa_county_east,
+maricopa_county_west,
+mesa_airport,
+mesa_east,
+mesa_west,
+peoria,
+phoenix_ahwatukee_foothills,
+phoenix_central_city,
+phoenix_central_east,
+phoenix_deer_valley,
+phoenix_downtown,
+phoenix_east_camelback_village,
+phoenix_east_uptown,
+phoenix_happy_valley,
+phoenix_maryvale,
+phoenix_midtown,
+phoenix_north_mountain_village,
+phoenix_paradise_valley_village,
+phoenix_paradise_valley_west,
+phoenix_south,
+phoenix_sunnyslope,
+phoenix_the_village,
+phoenix_west_uptown,
+pinal_county_east,
+queen_creek,
+scottsdale_north,
+scottsdale_south,
+surprise,
+tempe_north,
+tempe_south,
+apex,
+benson,
+carrboro,
+chapel_hill,
+chatham_county_east,
+chatham_county_west,
+clay_morrisville,
+clayton,
+durham_central,
+durham_east,
+durham_north,
+durham_south,
+durham_southwest,
+franklin_county,
+fuquay_varina,
+garner,
+granville_county,
+harnett_county_east,
+harnett_county_west,
+hillsborough,
+holly_springs,
+knightdale,
+person_county,
+raleigh_brier_creek,
+raleigh_central_east,
+raleigh_central_west,
+raleigh_downtown,
+raleigh_east,
+raleigh_north,
+raleigh_northeast,
+raleigh_northwest,
+raleigh_south,
+raleigh_southeast,
+raleigh_southwest,
+raleigh_university,
+raleigh_west,
+smithfield,
+vance_county,
+wake_forest,
+wendell,
+brigham_city,
+draper,
+holladay,
+juab_county,
+layton,
+lehi,
+logan,
+magna,
+midvale,
+millcreek,
+murray,
+north_salt_lake_bountiful,
+ogden,
+orem,
+outlying_summit_county,
+park_city,
+pleasant_grove,
+provo,
+salt_lake_city_ballpark,
+salt_lake_city_downtown,
+salt_lake_city_east_central,
+salt_lake_city_southeast,
+salt_lake_city_university,
+salt_lake_city_west,
+salt_lake_city_west_central,
+sandy,
+south_jordan_herriman,
+south_salt_lake,
+spanish_fork,
+taylorsville,
+tooele,
+west_jordan,
+west_valley_city,
+northwest_bexar_county,San Antonio
+outlying_comal_county,San Antonio
+outlying_guadalupe_county,San Antonio
+southside_columbia_heights,San Antonio
+leon_valley_west,San Antonio
+new_braunfels,San Antonio
+terrell_wells,San Antonio
+southeast_side,San Antonio
+city_south,San Antonio
+west_side,San Antonio
+lackland_terrace,San Antonio
+far_west_side,San Antonio
+windcrest,San Antonio
+northeast_side,San Antonio
+southtown_king_william,San Antonio
+balcones_heights,San Antonio
+alamo_heights_central,San Antonio
+terrell_hills,San Antonio
+longhorn,San Antonio
+north_loop,San Antonio
+hollywood_park_welmore,San Antonio
+castle_hills,San Antonio
+hill_country_village,San Antonio
+far_north_central,San Antonio
+shavano_park,San Antonio
+oakland_estates,San Antonio
+leon_valley_east,San Antonio
+northwest_side,San Antonio
+university_of_texas_at_san_ant,San Antonio
+robards,San Antonio
+beckmann,San Antonio
+helotes,San Antonio
+far_north_side,San Antonio
+selma,San Antonio
+schertz,San Antonio
+universal_city,San Antonio
+seguin,San Antonio
+oak_hills_country_club,San Antonio
+fort_sam_houston,San Antonio
+east_side,San Antonio
+southwest_research_institute,San Antonio
+west_alamo_heights,San Antonio
+usaa_area,San Antonio
+southeast_bexar_county,San Antonio
+southwest_bexar_county,San Antonio
+apollo_beach_ruskin,Tampa - St Petersburg - Clearwater
+barlow,Tampa - St Petersburg - Clearwater
+brandon,Tampa - St Petersburg - Clearwater
+brooksville,Tampa - St Petersburg - Clearwater
+carrollwood,Tampa - St Petersburg - Clearwater
+citrus_park_westchase,Tampa - St Petersburg - Clearwater
+clearwater_east,Tampa - St Petersburg - Clearwater
+clearwater_west,Tampa - St Petersburg - Clearwater
+dade_city,Tampa - St Petersburg - Clearwater
+davenport,Tampa - St Petersburg - Clearwater
+east_lake_orient_park,Tampa - St Petersburg - Clearwater
+egypt_lake_leto,Tampa - St Petersburg - Clearwater
+lake_magdalene_northdale,Tampa - St Petersburg - Clearwater
+lake_wales,Tampa - St Petersburg - Clearwater
+lakeland,Tampa - St Petersburg - Clearwater
+land_o'_lakes,Tampa - St Petersburg - Clearwater
+largo,Tampa - St Petersburg - Clearwater
+new_port_richey,Tampa - St Petersburg - Clearwater
+oldsmar,Tampa - St Petersburg - Clearwater
+palm_harbor,Tampa - St Petersburg - Clearwater
+palm_river_clair_mel,Tampa - St Petersburg - Clearwater
+pinellas_park,Tampa - St Petersburg - Clearwater
+plant_city,Tampa - St Petersburg - Clearwater
+port_richey,Tampa - St Petersburg - Clearwater
+riverview,Tampa - St Petersburg - Clearwater
+seminole,Tampa - St Petersburg - Clearwater
+south_pasadena,Tampa - St Petersburg - Clearwater
+spring_hill,Tampa - St Petersburg - Clearwater
+st_petersburg_downtown,Tampa - St Petersburg - Clearwater
+st_petersburg_east,Tampa - St Petersburg - Clearwater
+st_petersburg_north,Tampa - St Petersburg - Clearwater
+st_petersburg_south,Tampa - St Petersburg - Clearwater
+st_petersburg_west,Tampa - St Petersburg - Clearwater
+sun_city_center,Tampa - St Petersburg - Clearwater
+tampa_airport,Tampa - St Petersburg - Clearwater
+tampa_downtown,Tampa - St Petersburg - Clearwater
+tampa_east,Tampa - St Petersburg - Clearwater
+tampa_historic,Tampa - St Petersburg - Clearwater
+tampa_northeast,Tampa - St Petersburg - Clearwater
+tampa_northwest,Tampa - St Petersburg - Clearwater
+tampa_south_tampa,Tampa - St Petersburg - Clearwater
+tampa_sun_bay_south,Tampa - St Petersburg - Clearwater
+tampa_tampa_heights,Tampa - St Petersburg - Clearwater
+tampa_west,Tampa - St Petersburg - Clearwater
+tampa_palms_pebble_creek,Tampa - St Petersburg - Clearwater
+tarpon_springs,Tampa - St Petersburg - Clearwater
+temple_terrace,Tampa - St Petersburg - Clearwater
+thonotosassa,Tampa - St Petersburg - Clearwater
+town_'n'_country,Tampa - St Petersburg - Clearwater
+university,Tampa - St Petersburg - Clearwater
+wesley_chapel,Tampa - St Petersburg - Clearwater
+winter_haven,Tampa - St Petersburg - Clearwater
+zephyr_hills,Tampa - St Petersburg - Clearwater
+boca_raton_east,West Palm Beach - Boca Raton
+boca_raton_west,West Palm Beach - Boca Raton
+boynton_beach,West Palm Beach - Boca Raton
+delray_beach,West Palm Beach - Boca Raton
+jupiter,West Palm Beach - Boca Raton
+lake_worth,West Palm Beach - Boca Raton
+lantana,West Palm Beach - Boca Raton
+north_palm_beach,West Palm Beach - Boca Raton
+outlying_palm_beach_county,West Palm Beach - Boca Raton
+palm_beach_gardens,West Palm Beach - Boca Raton
+palm_springs,West Palm Beach - Boca Raton
+riviera_beach,West Palm Beach - Boca Raton
+wellington,West Palm Beach - Boca Raton
+west_palm_beach_central,West Palm Beach - Boca Raton
+west_palm_beach_north,West Palm Beach - Boca Raton
+west_palm_beach_south,West Palm Beach - Boca Raton
+west_palm_beach_west,West Palm Beach - Boca Raton
